@@ -38,7 +38,7 @@ This is the frontend implementation for the JavaScript AI Teacher application. I
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/romabulani/learnbot](https://github.com/romabulani/learnbot)
+   git clone https://github.com/romabulani/learnbot
    cd learnbot
    ```
 2. Install dependencies and run:
