@@ -38,8 +38,8 @@ This is the frontend implementation for the JavaScript AI Teacher application. I
 
 1. Clone the repository:
    ```bash
-   git clone <frontend-repo-url>
-   cd <frontend-repo-directory>
+   git clone [https://github.com/romabulani/learnbot](https://github.com/romabulani/learnbot)
+   cd learnbot
    ```
 2. Install dependencies and run:
   ```bash
