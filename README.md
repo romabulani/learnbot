@@ -50,7 +50,7 @@ This is the frontend implementation for the JavaScript AI Teacher application. I
 
 ## Deployment
 
-The app is deployed on Vercel. You can try it out at: Live Demo
+The app is deployed on Vercel. You can try it out at: [https://learnbot-js.vercel.app/](https://learnbot-js.vercel.app/)
 
 ---
 ## Known Issues
